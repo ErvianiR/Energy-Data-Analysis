@@ -64,13 +64,13 @@ This repository does not include the original dataset. Please download it from t
 
 The Power BI dashboard consists of two pages:
 
-_1. Overview
+_1. Overview_
 - KPI cards
 - Energy consumption
 - Electricity generation for 2024
 - Renewable energy
   
-_2. Production and Environmental Impact
+_2. Production and Environmental Impact_
 - Carbon intensity for the last 5 years
 - Energy by source for 2024
 - Energy production
