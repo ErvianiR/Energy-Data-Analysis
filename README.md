@@ -60,7 +60,7 @@ This repository does not include the original dataset. Please download it from t
   dashboard/ —  Power BI dashboard
   
 
-**7. Power BI Dashboard**
+**6. Power BI Dashboard**
 
 The Power BI dashboard consists of two pages:
 
