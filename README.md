@@ -1,13 +1,15 @@
 # Energy-Data-Analysis
 Python | Power BI | Data Analysis | Data Visualization | Energy Analysis
 
-Indonesia Energy Analysis (2020–2024) using Python and Power BI
+Indonesia Energy Analysis (2000–2024) using Python and Power BI
 
 
 **1. Project Overview**
 
-This personal portfolio project analyzes the Brazilian E-Commerce Public Dataset from Olist to explore sales performance, product performance, customer purchasing behavior, payment methods, delivery efficiency, and customer satisfaction.
-The objective is to transform raw e-commerce data into meaningful business insights using SQL and interactive Power BI dashboards.
+This project analyzes Indonesia's energy landscape from 2000 to 2024, focusing on energy consumption, fossil fuel dependency, renewable energy development, electricity generation, carbon emissions, energy efficiency, and domestic energy production.
+
+The project uses Python for data cleaning and data analysis. Then Power BI to build an interactive dashboard that presents key energy indicators and trends.
+
 
 **2. Tools and Technologies**
 
@@ -68,9 +70,9 @@ _1. Overview
 - Electricity generation for 2024
 - Renewable energy
   
-_2. Production and Environment Impact
+_2. Production and Environmental Impact
 - Carbon intensity for the last 5 years
-- Energy by sources for 2024
+- Energy by source for 2024
 - Energy production
 - Energy intensity over time
   
